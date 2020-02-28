@@ -1,0 +1,36 @@
+===> [info] - - "Target: http://127.0.0.1" - - 2020-02-28-01:45:35
+===> [info] - - "Starting crawlergo" - - 2020-02-28-01:45:35
+===> [info] - - "Xray Started" - - 2020-02-28-01:45:35
+===> [info] - - "Crawlergo Done" - - 2020-02-28-01:45:41
+===> [info] - - "Send Requests" - - 2020-02-28-01:45:41
+===> [info] - - "Processing http://127.0.0.1/, Remaining request: 2" - - 2020-02-28-01:45:41
+===> [info] - - "Processing https://127.0.0.1/, Remaining request: 1" - - 2020-02-28-01:45:41
+===> [info] - - "Processing http://127.0.0.1/index, Remaining request: 0" - - 2020-02-28-01:45:41
+===> [get] - - "http://127.0.0.1 Done" - - 2020-02-28-01:45:41
+===> [info] - - "Target: http://127.0.0.1" 2020-02-28-01:46:34
+===> [info] - - "Starting crawlergo" 2020-02-28-01:46:34
+===> [info] - - "Xray Started" 2020-02-28-01:46:34
+===> [info] - - "Crawlergo Done" 2020-02-28-01:46:39
+===> [info] - - "Send Requests" 2020-02-28-01:46:39
+===> [info] - - "Processing http://127.0.0.1/, Remaining request: 2" 2020-02-28-01:46:39
+===> [info] - - "Processing https://127.0.0.1/, Remaining request: 1" 2020-02-28-01:46:39
+===> [info] - - "Processing http://127.0.0.1/index, Remaining request: 0" 2020-02-28-01:46:39
+===> [get] - - "http://127.0.0.1 Done" 2020-02-28-01:46:39
+===> [info] - - "Target: http://127.0.0.1" 2020-02-28-02:06:10
+===> [info] - - "Starting crawlergo" 2020-02-28-02:06:10
+===> [info] - - "Xray Started" 2020-02-28-02:06:10
+===> [info] - - "Crawlergo Done" 2020-02-28-02:06:15
+===> [info] - - "Send Requests" 2020-02-28-02:06:15
+===> [info] - - "Processing http://127.0.0.1/, Remaining request: 2" 2020-02-28-02:06:15
+===> [info] - - "Processing https://127.0.0.1/, Remaining request: 1" 2020-02-28-02:06:15
+===> [info] - - "Processing http://127.0.0.1/index, Remaining request: 0" 2020-02-28-02:06:15
+===> [get] - - "http://127.0.0.1 Done" 2020-02-28-02:06:15
+===> [info] - - "Target: http://127.0.0.1" 2020-02-28-17:45:39
+===> [info] - - "Starting crawlergo" 2020-02-28-17:45:39
+===> [info] - - "Xray Started" 2020-02-28-17:45:39
+===> [info] - - "Crawlergo Done" 2020-02-28-17:45:44
+===> [info] - - "Send Requests" 2020-02-28-17:45:44
+===> [info] - - "Processing http://127.0.0.1/, Remaining request: 2" 2020-02-28-17:45:44
+===> [info] - - "Processing https://127.0.0.1/, Remaining request: 1" 2020-02-28-17:45:44
+===> [info] - - "Processing http://127.0.0.1/index, Remaining request: 0" 2020-02-28-17:45:44
+===> [get] - - "http://127.0.0.1 Done" 2020-02-28-17:45:44
