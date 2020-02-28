@@ -198,4 +198,5 @@ if __name__ == "__main__":
 		else:
 			if urlCheck(para):
 				start(para)
-	print("help: python3 Auto_man.py [url/url_file]")
+	else:
+	    print("help: python3 Auto_man.py [url/url_file]")
